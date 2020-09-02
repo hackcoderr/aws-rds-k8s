@@ -1,0 +1,1 @@
+# Task-6-Deployment-of-WordPress-on-Kubernetes-and-Integrating-it-with-AWS-RDS
